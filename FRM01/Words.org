@@ -1,0 +1,103 @@
+* 单词
+| 英文                       | 中文                               |
+|----------------------------+------------------------------------|
+| Florentine                 | 佛罗伦萨                           |
+| cushion                    | 垫子                               |
+| Citigroup                  | 花旗集团                           |
+| JPMorgan Chase             | 摩根大通公司                       |
+| regional                   | 地区的／局部的                     |
+| nterstate banking          | 州际银行业务                       |
+| community banks            | 社区银行                           |
+| check-clearing             | 票据交换                           |
+| erode                      | 侵蚀                               |
+| McFadden Act               | 麦克法登法案                       |
+| amende                     | 修订                               |
+| multibank holding company  | 多家银行持股公司                   |
+| Federal Reserve            | 美联储                             |
+| divest                     | 迫使放弃                           |
+| conform                    | 符合                               |
+| reciprocal                 | 互惠的，相互的                     |
+| pact                       | 协定  契约                         |
+| Bear Stearns               | 贝尔斯登                           |
+| Washington Mutual          | 华盛顿互惠银行                     |
+| assess                     | 评估                               |
+| inevitable                 | 必然的，不可避免的                 |
+| fluctuate                  | 波动的                             |
+| overheads                  | 日常开支                           |
+| litigation                 | 起诉                               |
+| disruption                 | 破坏                               |
+| severe                     | 严重                               |
+| recession                  | 衰退                               |
+| solvent                    | 有偿还能力                         |
+| insolvency                 | 破产，倒闭                         |
+| depleted                   | 减耗                               |
+| originating                | 发起                               |
+| placing                    | 发售                               |
+| prospectus                 | 招股说明书                         |
+| occasions                  | 场合                               |
+| charter                    |                                    |
+| vest                       | 马甲，授权                         |
+| exodus                     | 离去                               |
+| overcome                   | 克服                               |
+| spinning                   | 纺织／违规派送新股                 |
+| Credit Suisse First Boston | 瑞士信贷第一波士顿                 |
+| Morgan Stanley             | 摩根士丹利                         |
+| refund                     | 退还; 归还或偿还                   |
+| synergy                    | 协同                               |
+| antitrust                  | 反垄断的                           |
+| proprietary trading        | 自营                               |
+| specify                    | 专门指定                           |
+| fiduciary                  | 信托业务                           |
+| scrutiny                   | 监管                               |
+| ring fence                 | 圈地的围栏                         |
+| prayroll                   | 工资名单                           |
+| undertake                  | 从事                               |
+| publicity                  | 公众信息                           |
+| nevertheless               | 然而; 尽管如此                     |
+| Originate-to-Distribute    | 发行及销售  ，贷款并证券化         |
+| nonperforming              | 不良                               |
+| prescribed                 | 规定的，法定的                     |
+| vigilant                   | 机警的，警觉的                     |
+| reputation                 | 声誉                               |
+| policyholde                | 投保人                             |
+| terminology                | 术语                               |
+| property-casualty          | 财产险                             |
+| casualty                   | 意外                               |
+| lump                       | 块                                 |
+| merchants                  | 商人                               |
+| sank                       | 沉陷                               |
+| redeem                     | 赎回；挽回；兑换；履行；补偿；恢复 |
+| surrender                  | 放弃                               |
+| policies                   | 保单                               |
+| beneficiaries              | 受益人                             |
+| laps                       | 失效                               |
+| Universal Life             | 万能险                             |
+| reluctant                  | 不情愿的；勉强的                   |
+| scrambled                  | 争夺                               |
+|                            |                                    |
+
+  
+* 短语
+| 英文             | 中文                           |
+|------------------+--------------------------------|
+| engage in        | 参与                           |
+| concern that     | 担心                           |
+| deposit-taking   | 吸收存款                       |
+| refer to         | 指的是／提到／说到／论及／涉及 |
+| refer to...as... | 将...称为...                   |
+| in vitually      | 事实上/实际上                  |
+| subject to       | 使服从                         |
+| be able to       | 能够; 能，会                   |
+| apply to         | 适用于                         |
+| as well as       | 也                             |
+| prone to         | 倾向                           |
+| run on the bank  | 银行挤兑                       |
+| rown on/upon     | 不赞成，不同意                 |
+| carried out      | 实施                           |
+| in terms of      | 就...而言                      |
+| compensated for  | 赔偿                             |
+
+| get rid of | 除去 |
+| apart from | 除此之外 |
+
+

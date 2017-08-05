@@ -1,0 +1,20 @@
+* 长难句
+
++ Banks that are heavily involved in wholesale banking and may fund their lending by borrowing in financial markets are referred to as money center banks.
+  + [主语] Banks 银行
+  + [定语从句] _banks_ that are heavily involved in wholesale banking 大量参与批发银行业务的银行
+  + [定语从句] _banks_ may fund their lending by borrowing in financial markets  可以通过在金融市场借款来资助贷款的银行
+  + [谓语] are referred to as 将...称为
+  + [宾语] money center banks 货币中央银行 
+    
++ However, the company does not take advantage of the relationships that investment bankers have developed with large investors that usually enable the investment bankers to sell an IPO very quickly.
+
+  + [主语]  the company 
+  + [谓语]  does not take advantage of
+  + [宾语] the relationships
+  + [宾语从句] 
+  + [宾语从句]
+
++ The cost in terms of reputation, lawsuits, and fines from inappropriate behavior where one client (or the bank) is advantaged at the expense of another client can be very large.
+* 好句子
+  + This ran into opposition from two quarters 受到不同的阻力

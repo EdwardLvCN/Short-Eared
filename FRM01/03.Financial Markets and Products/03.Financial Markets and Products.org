@@ -1,0 +1,44 @@
+
+* Banks
+** Learning Objectives 
+   + Major risks faced by a bank 银行面临的主要风险
+   + Distinguish between economic capital and regulatory capital 经济资本和监管资本的区别
+   + How Deposit insurance gives rise to a moral hazard problem 存款保险怎么提升了道德风险
+   + Investement banking financing arrangments 投资银行的协议
+     + Private placement 私募
+     + Public offering 公开发行
+     + Best efforts 承销
+     + Firm commitment 包销承诺
+     + Dutch auction 荷兰式拍卖
+   + Potential conflicts of interest among commercial bank,securities services,and investment banking
+   + Distinguish between the "banking book" and the "trading book" of a bank 银行账户和交易账户的区别
+   + Explain the originate-to-distribute model of a bank and discuss its benefits and drawbacks
+$Bank$ - Italian word "banco",Desk covered by a green tablecloth.
++ commercial banking 商业银行
+  + deposit-taking 吸收存款
+  + lending 借款
++ investment banking 投资银行
+  + raising debt and equity
+  + mergers and acquisitions
+  + majar corporate restructings
+  + finance decisions
+  + securites trading (brokerage services)
+
+$Commercial banking$ 
++ retailing banking
+  + small deposits
+  + small loan
++ wholesale bandking
+  + larger
+  + less administrative costs
+  + less expected loan losses
+
+** COMMERCIAL BANKING
+
++ McFadden Act (1927, 1933)
++ Douglas Amendment (1956) 道格拉斯修正案
++ Riegel-Neal Interstate Banking and Branching Efficiency Act (1994)
++ Dodd-Frank Wall Street Reform and Consumer Protection Act (2010)
++ Volcker rule (no proprietary trading by deposit-taking institutions)
++ Proprietary trading: a trader trades with the firm's own money4
+
