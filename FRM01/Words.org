@@ -74,30 +74,70 @@
 | Universal Life             | 万能险                             |
 | reluctant                  | 不情愿的；勉强的                   |
 | scrambled                  | 争夺                               |
-|                            |                                    |
+| mortality                  | 死亡数                             |
+| epidemics                  | 流行病                             |
+| pandemics                  | 流行病                             |
+| longevity                  | 长寿，长命；寿命                   |
+| survivor bond              | 生存债券                           |
+| hurricanes                 | 飓风                               |
+| Katrina                    | 卡特里娜                           |
+| Beaufort                   | 蒲福(风力等级)                     |
+| catastrophic               | 灾难                               |
+| geographical               | 地理学                             |
+| seismographic              | 地震学                             |
+| meteorological             | 气象学                             |
+| therefrom                  | 从那里；从此；从那一点             |
+| asbestos                   | 石棉                               |
+| respectively               | 分别的                             |
+| loss adjustment            | 理赔                               |
+| prescription               | 药方                               |
+| dental                     | 牙科的                             |
+| deteriorate                | 恶化                               |
+| legislation                | 立法                               |
+| cosmetic                   | 美容                               |
+| deductible                 | 可扣除的                           |
+| inadvertently              | 非故意                             |
+| undergo                    | 经历                               |
+| Berkshire Hathaway         |                                    |
+| indemnification            | 赔偿，补偿金                       |
+| insolvent                  | 破产                               |
+| insurer                    | 承保人                             |
+| transpired                 | 激发了                             |
+| foster                     | 培养                               |
+| Netherland                 | 荷兰                               |
+| spouse                     | 配偶                               |
+| deductible                 | 可扣除的                           |
+| viable                     | 可行                                 |
 
   
 * 短语
-| 英文             | 中文                           |
-|------------------+--------------------------------|
-| engage in        | 参与                           |
-| concern that     | 担心                           |
-| deposit-taking   | 吸收存款                       |
-| refer to         | 指的是／提到／说到／论及／涉及 |
-| refer to...as... | 将...称为...                   |
-| in vitually      | 事实上/实际上                  |
-| subject to       | 使服从                         |
-| be able to       | 能够; 能，会                   |
-| apply to         | 适用于                         |
-| as well as       | 也                             |
-| prone to         | 倾向                           |
-| run on the bank  | 银行挤兑                       |
-| rown on/upon     | 不赞成，不同意                 |
-| carried out      | 实施                           |
-| in terms of      | 就...而言                      |
-| compensated for  | 赔偿                             |
-
-| get rid of | 除去 |
-| apart from | 除此之外 |
+| 英文                 | 中文                           |
+|----------------------+--------------------------------|
+| engage in            | 参与                           |
+| concern that         | 担心                           |
+| deposit-taking       | 吸收存款                       |
+| refer to             | 指的是／提到／说到／论及／涉及 |
+| refer to...as...     | 将...称为...                   |
+| in vitually          | 事实上/实际上                  |
+| subject to           | 使服从                         |
+| be able to           | 能够; 能，会                   |
+| apply to             | 适用于                         |
+| as well as           | 也                             |
+| prone to             | 倾向                           |
+| run on the bank      | 银行挤兑                       |
+| rown on/upon         | 不赞成，不同意                 |
+| carried out          | 实施                           |
+| in terms of          | 就...而言                      |
+| compensated for      | 赔偿                           |
+| law of large numbers | 大数定理                       |
+| in exchange for      | 从那里；从此；从那一点         |
+| suppose that         | 假如                           |
+| suggest that         | 建议                           |
+| in spite of          | 尽管                           |
+| by contrast          | 相比之下                       |
+| get rid of           | 除去                           |
+| apart from           | 除此之外                       |
+| bail out                   | 跳伞；保释                                   |
+|                      |                                |
 
 
