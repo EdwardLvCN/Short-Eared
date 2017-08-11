@@ -107,7 +107,38 @@
 | Netherland                 | 荷兰                               |
 | spouse                     | 配偶                               |
 | deductible                 | 可扣除的                           |
-| viable                     | 可行                                 |
+| viable                     | 可行                               |
+| deviate                    | 脱离、越轨                         |
+| eligible                   | 合适的                             |
+| conforming                 | 遵守                               |
+| mortgage                   | 抵押、抵押单据                     |
+| retirment                  | 退休，退职                         |
+| eliminate                  | 排除，消除                         |
+| on behalf of               | 为了……的利益，代表……               |
+| fiduciary                  | 基于信用的，信托的                 |
+| invoice                    | 发票；发货单                       |
+| municipal                  | 市的，市政的                       |
+| terminological             | 术语的，专门名词的                 |
+| compliance                 | 服从，听从                         |
+| mechanic                   | 技工，机修工                       |
+| controversial              | 有争议的，引起正义的               |
+| comprehensive              | 广泛的，综合的                     |
+| soybean                    | 大豆，黄豆                         |
+| reluctant                  | 不情愿                             |
+| worse                      | 更坏的                             |
+| fluctuate                  | 波动；涨落                         |
+| roughtly                   | 粗略地，大体上                     |
+| immune                     | 免疫的；有免疫力的                 |
+| open to                    | 为……打开门                         |
+| put forward                | 提出，将……提前                     |
+| in favor of                | 赞成，支持                         |
+| make sense of              | 搞清……的意思                       |
+| presumably                 | 据推测；大概；可能；想来           |
+| converge                   | 会于一点，聚集                     |
+| bilaterally                | 两侧，双向地                       |
+| entilte                    | 使有资格                           |
+| phenomenon                 | 现象                                 |
+|                            |                                    |
 
   
 * 短语
@@ -137,7 +168,8 @@
 | by contrast          | 相比之下                       |
 | get rid of           | 除去                           |
 | apart from           | 除此之外                       |
-| bail out                   | 跳伞；保释                                   |
-|                      |                                |
+| bail out             | 跳伞；保释                     |
+| breaking the duck    | 扭转败局                   |
+|                      |                            |
 
 
