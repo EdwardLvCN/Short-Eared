@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {1}Fixed-Income Products 固定收益}{2}
+\contentsline {subsection}{\numberline {1.1}Bond Basics 债券基础}{2}
+\contentsline {subsection}{\numberline {1.2}Bond Products - Treasury Bonds 债券-国债}{2}
+\contentsline {subsection}{\numberline {1.3}Bond Products - Corporate Bond 债券-公司债}{2}
+\contentsline {subsection}{\numberline {1.4}Bond Products - MBS 债券-抵押债}{2}
+\contentsline {subsection}{\numberline {1.5}Valuation of Bonds 债券估值}{3}
+\contentsline {subsection}{\numberline {1.6}Risk Metrics 风险矩阵}{3}
+\contentsline {subsubsection}{\numberline {1.6.1}One-Factor Risk Metrics 单因素影响模型}{3}
+\contentsline {subsubsection}{\numberline {1.6.2}Multi-Factor Risk Metrics 多因素影响模型}{4}
+\contentsline {section}{\numberline {2}Derivatives 衍生品}{5}
+\contentsline {subsection}{\numberline {2.1}Forward Market and Futures Market 远期和期货市场}{5}
+\contentsline {subsection}{\numberline {2.2}Forward and Futures Prices 远期和期货的估值}{6}
+\contentsline {subsection}{\numberline {2.3}Interest Rate Futures 利率期货合约}{6}
+\contentsline {subsection}{\numberline {2.4}Hedging Strategies using Futures 使用期货的对冲策略}{7}
+\contentsline {subsection}{\numberline {2.5}Swap Market 互换合约}{7}
+\contentsline {subsection}{\numberline {2.6}Properties of Stock Options 股票期权的特性}{8}
+\contentsline {subsection}{\numberline {2.7}Trading Strategies involving Options 期权组合策略}{9}
+\contentsline {subsubsection}{\numberline {2.7.1}Simple Strategies 简单策略}{9}
+\contentsline {subsubsection}{\numberline {2.7.2}Spread 价差组合策略}{10}
+\contentsline {subsubsection}{\numberline {2.7.3}Combination Strategies 组合策略}{11}
+\contentsline {subsection}{\numberline {2.8}Exotic Options 奇异期权}{12}
+\contentsline {subsection}{\numberline {2.9}Option Valuation 期权定价}{13}
+\contentsline {subsubsection}{\numberline {2.9.1}Binomial Trees 二叉树定价}{13}
+\contentsline {subsubsection}{\numberline {2.9.2}The Black-Scholes-Merton Model Black-Scholes期权定价公式}{14}
+\contentsline {subsection}{\numberline {2.10}Risk Metrics - The Greek 希腊字母}{15}
+\contentsline {section}{\numberline {3}Financial Institutions 金融机构}{19}
+\contentsline {subsection}{\numberline {3.1}Central Counterparties 中央清算机构}{19}
+\contentsline {subsection}{\numberline {3.2}Banks 银行}{20}
+\contentsline {subsubsection}{\numberline {3.2.1}Investment Banking 投资银行}{20}
+\contentsline {subsubsection}{\numberline {3.2.2}Commercial Bank 商业银行}{20}
+\contentsline {subsection}{\numberline {3.3}Insurance Companies 保险公司}{21}
+\contentsline {subsection}{\numberline {3.4}Mutual Funds and Hedge Funds 共同基金和对冲基金}{21}
+\contentsline {section}{\numberline {4}Risk Measurement and Management 风险衡量及管理}{23}
+\contentsline {subsection}{\numberline {4.1}Measures of Financial Risk 衡量金融风险}{23}
+\contentsline {subsection}{\numberline {4.2}Putting VaR to Work VaR模型应用}{24}
+\contentsline {subsection}{\numberline {4.3}Quantifying Volatility in VaR Models 波动率的估计}{25}
+\contentsline {subsection}{\numberline {4.4}Capital Structure in Banks 银行的资本结构}{26}
+\contentsline {subsection}{\numberline {4.5}Expected and Unexpected Loss 预期及非预期损失}{26}
+\contentsline {subsection}{\numberline {4.6}Country Risk 国家风险}{27}
+\contentsline {subsection}{\numberline {4.7}Operational Risk 操作风险}{28}
+\contentsline {subsection}{\numberline {4.8}Stress Test 压力测试}{30}

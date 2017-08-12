@@ -1,144 +1,168 @@
 * 单词
-| 英文                       | 中文                               |
-|----------------------------+------------------------------------|
-| Florentine                 | 佛罗伦萨                           |
-| cushion                    | 垫子                               |
-| Citigroup                  | 花旗集团                           |
-| JPMorgan Chase             | 摩根大通公司                       |
-| regional                   | 地区的／局部的                     |
-| nterstate banking          | 州际银行业务                       |
-| community banks            | 社区银行                           |
-| check-clearing             | 票据交换                           |
-| erode                      | 侵蚀                               |
-| McFadden Act               | 麦克法登法案                       |
-| amende                     | 修订                               |
-| multibank holding company  | 多家银行持股公司                   |
-| Federal Reserve            | 美联储                             |
-| divest                     | 迫使放弃                           |
-| conform                    | 符合                               |
-| reciprocal                 | 互惠的，相互的                     |
-| pact                       | 协定  契约                         |
-| Bear Stearns               | 贝尔斯登                           |
-| Washington Mutual          | 华盛顿互惠银行                     |
-| assess                     | 评估                               |
-| inevitable                 | 必然的，不可避免的                 |
-| fluctuate                  | 波动的                             |
-| overheads                  | 日常开支                           |
-| litigation                 | 起诉                               |
-| disruption                 | 破坏                               |
-| severe                     | 严重                               |
-| recession                  | 衰退                               |
-| solvent                    | 有偿还能力                         |
-| insolvency                 | 破产，倒闭                         |
-| depleted                   | 减耗                               |
-| originating                | 发起                               |
-| placing                    | 发售                               |
-| prospectus                 | 招股说明书                         |
-| occasions                  | 场合                               |
-| charter                    |                                    |
-| vest                       | 马甲，授权                         |
-| exodus                     | 离去                               |
-| overcome                   | 克服                               |
-| spinning                   | 纺织／违规派送新股                 |
-| Credit Suisse First Boston | 瑞士信贷第一波士顿                 |
-| Morgan Stanley             | 摩根士丹利                         |
-| refund                     | 退还; 归还或偿还                   |
-| synergy                    | 协同                               |
-| antitrust                  | 反垄断的                           |
-| proprietary trading        | 自营                               |
-| specify                    | 专门指定                           |
-| fiduciary                  | 信托业务                           |
-| scrutiny                   | 监管                               |
-| ring fence                 | 圈地的围栏                         |
-| prayroll                   | 工资名单                           |
-| undertake                  | 从事                               |
-| publicity                  | 公众信息                           |
-| nevertheless               | 然而; 尽管如此                     |
-| Originate-to-Distribute    | 发行及销售  ，贷款并证券化         |
-| nonperforming              | 不良                               |
-| prescribed                 | 规定的，法定的                     |
-| vigilant                   | 机警的，警觉的                     |
-| reputation                 | 声誉                               |
-| policyholde                | 投保人                             |
-| terminology                | 术语                               |
-| property-casualty          | 财产险                             |
-| casualty                   | 意外                               |
-| lump                       | 块                                 |
-| merchants                  | 商人                               |
-| sank                       | 沉陷                               |
-| redeem                     | 赎回；挽回；兑换；履行；补偿；恢复 |
-| surrender                  | 放弃                               |
-| policies                   | 保单                               |
-| beneficiaries              | 受益人                             |
-| laps                       | 失效                               |
-| Universal Life             | 万能险                             |
-| reluctant                  | 不情愿的；勉强的                   |
-| scrambled                  | 争夺                               |
-| mortality                  | 死亡数                             |
-| epidemics                  | 流行病                             |
-| pandemics                  | 流行病                             |
-| longevity                  | 长寿，长命；寿命                   |
-| survivor bond              | 生存债券                           |
-| hurricanes                 | 飓风                               |
-| Katrina                    | 卡特里娜                           |
-| Beaufort                   | 蒲福(风力等级)                     |
-| catastrophic               | 灾难                               |
-| geographical               | 地理学                             |
-| seismographic              | 地震学                             |
-| meteorological             | 气象学                             |
-| therefrom                  | 从那里；从此；从那一点             |
-| asbestos                   | 石棉                               |
-| respectively               | 分别的                             |
-| loss adjustment            | 理赔                               |
-| prescription               | 药方                               |
-| dental                     | 牙科的                             |
-| deteriorate                | 恶化                               |
-| legislation                | 立法                               |
-| cosmetic                   | 美容                               |
-| deductible                 | 可扣除的                           |
-| inadvertently              | 非故意                             |
-| undergo                    | 经历                               |
-| Berkshire Hathaway         |                                    |
-| indemnification            | 赔偿，补偿金                       |
-| insolvent                  | 破产                               |
-| insurer                    | 承保人                             |
-| transpired                 | 激发了                             |
-| foster                     | 培养                               |
-| Netherland                 | 荷兰                               |
-| spouse                     | 配偶                               |
-| deductible                 | 可扣除的                           |
-| viable                     | 可行                               |
-| deviate                    | 脱离、越轨                         |
-| eligible                   | 合适的                             |
-| conforming                 | 遵守                               |
-| mortgage                   | 抵押、抵押单据                     |
-| retirment                  | 退休，退职                         |
-| eliminate                  | 排除，消除                         |
-| on behalf of               | 为了……的利益，代表……               |
-| fiduciary                  | 基于信用的，信托的                 |
-| invoice                    | 发票；发货单                       |
-| municipal                  | 市的，市政的                       |
-| terminological             | 术语的，专门名词的                 |
-| compliance                 | 服从，听从                         |
-| mechanic                   | 技工，机修工                       |
-| controversial              | 有争议的，引起正义的               |
-| comprehensive              | 广泛的，综合的                     |
-| soybean                    | 大豆，黄豆                         |
-| reluctant                  | 不情愿                             |
-| worse                      | 更坏的                             |
-| fluctuate                  | 波动；涨落                         |
-| roughtly                   | 粗略地，大体上                     |
-| immune                     | 免疫的；有免疫力的                 |
-| open to                    | 为……打开门                         |
-| put forward                | 提出，将……提前                     |
-| in favor of                | 赞成，支持                         |
-| make sense of              | 搞清……的意思                       |
-| presumably                 | 据推测；大概；可能；想来           |
-| converge                   | 会于一点，聚集                     |
-| bilaterally                | 两侧，双向地                       |
-| entilte                    | 使有资格                           |
-| phenomenon                 | 现象                                 |
-|                            |                                    |
+| 英文                       | 中文                                    |
+|----------------------------+-----------------------------------------|
+| Florentine                 | 佛罗伦萨                                |
+| cushion                    | 垫子                                    |
+| Citigroup                  | 花旗集团                                |
+| JPMorgan Chase             | 摩根大通公司                            |
+| regional                   | 地区的／局部的                          |
+| nterstate banking          | 州际银行业务                            |
+| community banks            | 社区银行                                |
+| check-clearing             | 票据交换                                |
+| erode                      | 侵蚀                                    |
+| McFadden Act               | 麦克法登法案                            |
+| amende                     | 修订                                    |
+| multibank holding company  | 多家银行持股公司                        |
+| Federal Reserve            | 美联储                                  |
+| divest                     | 迫使放弃                                |
+| conform                    | 符合                                    |
+| reciprocal                 | 互惠的，相互的                          |
+| pact                       | 协定  契约                              |
+| Bear Stearns               | 贝尔斯登                                |
+| Washington Mutual          | 华盛顿互惠银行                          |
+| assess                     | 评估                                    |
+| inevitable                 | 必然的，不可避免的                      |
+| fluctuate                  | 波动的                                  |
+| overheads                  | 日常开支                                |
+| litigation                 | 起诉                                    |
+| disruption                 | 破坏                                    |
+| severe                     | 严重                                    |
+| recession                  | 衰退                                    |
+| solvent                    | 有偿还能力                              |
+| insolvency                 | 破产，倒闭                              |
+| depleted                   | 减耗                                    |
+| originating                | 发起                                    |
+| placing                    | 发售                                    |
+| prospectus                 | 招股说明书                              |
+| occasions                  | 场合                                    |
+| charter                    |                                         |
+| vest                       | 马甲，授权                              |
+| exodus                     | 离去                                    |
+| overcome                   | 克服                                    |
+| spinning                   | 纺织／违规派送新股                      |
+| Credit Suisse First Boston | 瑞士信贷第一波士顿                      |
+| Morgan Stanley             | 摩根士丹利                              |
+| refund                     | 退还; 归还或偿还                        |
+| synergy                    | 协同                                    |
+| antitrust                  | 反垄断的                                |
+| proprietary trading        | 自营                                    |
+| specify                    | 专门指定                                |
+| fiduciary                  | 信托业务                                |
+| scrutiny                   | 监管                                    |
+| ring fence                 | 圈地的围栏                              |
+| prayroll                   | 工资名单                                |
+| undertake                  | 从事                                    |
+| publicity                  | 公众信息                                |
+| nevertheless               | 然而; 尽管如此                          |
+| Originate-to-Distribute    | 发行及销售  ，贷款并证券化              |
+| nonperforming              | 不良                                    |
+| prescribed                 | 规定的，法定的                          |
+| vigilant                   | 机警的，警觉的                          |
+| reputation                 | 声誉                                    |
+| policyholde                | 投保人                                  |
+| terminology                | 术语                                    |
+| property-casualty          | 财产险                                  |
+| casualty                   | 意外                                    |
+| lump                       | 块                                      |
+| merchants                  | 商人                                    |
+| sank                       | 沉陷                                    |
+| redeem                     | 赎回；挽回；兑换；履行；补偿；恢复      |
+| surrender                  | 放弃                                    |
+| policies                   | 保单                                    |
+| beneficiaries              | 受益人                                  |
+| laps                       | 失效                                    |
+| Universal Life             | 万能险                                  |
+| reluctant                  | 不情愿的；勉强的                        |
+| scrambled                  | 争夺                                    |
+| mortality                  | 死亡数                                  |
+| epidemics                  | 流行病                                  |
+| pandemics                  | 流行病                                  |
+| longevity                  | 长寿，长命；寿命                        |
+| survivor bond              | 生存债券                                |
+| hurricanes                 | 飓风                                    |
+| Katrina                    | 卡特里娜                                |
+| Beaufort                   | 蒲福(风力等级)                          |
+| catastrophic               | 灾难                                    |
+| geographical               | 地理学                                  |
+| seismographic              | 地震学                                  |
+| meteorological             | 气象学                                  |
+| therefrom                  | 从那里；从此；从那一点                  |
+| asbestos                   | 石棉                                    |
+| respectively               | 分别的                                  |
+| loss adjustment            | 理赔                                    |
+| prescription               | 药方                                    |
+| dental                     | 牙科的                                  |
+| deteriorate                | 恶化                                    |
+| legislation                | 立法                                    |
+| cosmetic                   | 美容                                    |
+| deductible                 | 可扣除的                                |
+| inadvertently              | 非故意                                  |
+| undergo                    | 经历                                    |
+| Berkshire Hathaway         |                                         |
+| indemnification            | 赔偿，补偿金                            |
+| insolvent                  | 破产                                    |
+| insurer                    | 承保人                                  |
+| transpired                 | 激发了                                  |
+| foster                     | 培养                                    |
+| Netherland                 | 荷兰                                    |
+| spouse                     | 配偶                                    |
+| deductible                 | 可扣除的                                |
+| viable                     | 可行                                    |
+| deviate                    | 脱离、越轨                              |
+| eligible                   | 合适的                                  |
+| conforming                 | 遵守                                    |
+| mortgage                   | 抵押、抵押单据                          |
+| retirment                  | 退休，退职                              |
+| eliminate                  | 排除，消除                              |
+| on behalf of               | 为了……的利益，代表……                    |
+| fiduciary                  | 基于信用的，信托的                      |
+| invoice                    | 发票；发货单                            |
+| municipal                  | 市的，市政的                            |
+| terminological             | 术语的，专门名词的                      |
+| compliance                 | 服从，听从                              |
+| mechanic                   | 技工，机修工                            |
+| controversial              | 有争议的，引起正义的                    |
+| comprehensive              | 广泛的，综合的                          |
+| soybean                    | 大豆，黄豆                              |
+| reluctant                  | 不情愿                                  |
+| worse                      | 更坏的                                  |
+| fluctuate                  | 波动；涨落                              |
+| roughtly                   | 粗略地，大体上                          |
+| immune                     | 免疫的；有免疫力的                      |
+| open to                    | 为……打开门                              |
+| put forward                | 提出，将……提前                          |
+| in favor of                | 赞成，支持                              |
+| make sense of              | 搞清……的意思                            |
+| presumably                 | 据推测；大概；可能；想来                |
+| converge                   | 会于一点，聚集                          |
+| bilaterally                | 两侧，双向地                            |
+| entilte                    | 使有资格                                |
+| phenomenon                 | 现象                                    |
+| prudent                    | 慎重的，谨慎的                          |
+| constitute                 | 组成；构成                              |
+| essentially                | 本质上                                  |
+| democracy                  | 民主政治                                |
+| authoritarian              | 独裁主义的                              |
+| dictatorships              | 独裁统治的国家                          |
+| accompany                  | 伴随                                    |
+| corruption                 | 腐败; 贪污; 贿赂; 变体                  |
+| overwhelm                  | 压倒; 淹没; 压垮; 覆盖;                 |
+| capricious                 | 任性的                                  |
+| expropriate                | 没收（财产），征用;剥夺…的所有权        |
+| manner                     | 方式                                    |
+| timely                     | 及时的，适时的                          |
+| reluctant                  | 不情愿的，勉强的;顽抗的;难处理的;厌恶的 |
+| obligations                | 义务;债务( obligation的名词复数 )       |
+| consequence                | 推论;结果，成果                         |
+| turmoil                    | 混乱;焦虑                               |
+| indebtedness               | 受恩惠，亏欠，债务                      |
+| critiques                  | 评论文章，评论                          |
+| vicious                    | 恶性                                    |
+| incentive                  | 动机，诱因                              |
+| severity                   | 严重                                    |
+| calibration                | 校准，标准化                            |
+| coherent                   | 连贯的; 一致的                    |
+|                            |                                   |
 
   
 * 短语
